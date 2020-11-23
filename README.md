@@ -1,5 +1,13 @@
-# SWC3-javascript-basics2
+# Object-oriented programming in JavaScript
 
-Objects + exercises
+objects
 
-Arrays
+prototypes
+
+inheritance
+
+classes
+
+modules
+
+babel + webpack
